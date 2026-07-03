@@ -2,7 +2,7 @@
 
 # Project Overview
 
-The Brightlearn Coffee Shop Sales Analysis project was conducted to analyse historical sales data from it's three locations and generate actionable business insights to support strategic decision-making. Using SQL, Databricks, Google Sheets, Data Studio and Canva the project follows a complete data analytics workflow—from data extraction and cleaning to visualization and business recommendations.
+The Brightlearn Coffee Shop Sales Analysis project was conducted to analyse historical sales data from it's three locations and generate actionable business insights to support strategic decision-making. Using SQL, Databricks, Google Sheets, Data Studio and Canva the project follows a complete data analytics workflow; from data extraction and cleaning to visualization and business recommendations.
 
 The analysis focuses on identifying customer purchasing patterns, peak sales periods, product performance, and revenue trends across multiple store locations.
 
@@ -34,18 +34,15 @@ The dataset includes information such as:
 * Transaction quantity
 * Unit price
 
-#Tools Used
-
-| Tool                     | Purpose                                                         |
-| * Miro*                  | Project planning and workflow documentation                     |
-| * Databricks*            | Data extraction, SQL queries, ETL pipeline                      |
-| * SQL*                   | Data cleaning, transformation, aggregation, feature engineering |
-| * Google Sheets*         | Data validation and chart creation                              |
-| * Google Data Studio*    | Interactive dashboard development                               |
-| * Canva*                 | Sales report presentation                                       |
+# Tools Used
+* Miro:	Project planning and workflow documentation
+* Databricks:	Data extraction, SQL queries, ETL pipeline
+* SQL:	Data cleaning, transformation, aggregation, feature engineering
+* Google Sheets:	Data validation and chart creation
+* Google Data Studio:	Interactive dashboard development
+* Canva:	Business presentation
 
 # Data Quality Checks
-
 Before analysis, the dataset was assessed to ensure its suitability for business intelligence reporting.
 
 The following quality dimensions were verified:
