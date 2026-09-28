@@ -190,6 +190,7 @@ This project demonstrates practical experience in:
 # Interactive Sales Dashboard
 
 https://datastudio.google.com/s/v5kXiwgJ2mw
+https://coffee-sparkle-dash.lovable.app
 
 # Project Planning (Miro)
 
